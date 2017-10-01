@@ -13,9 +13,16 @@ You'll need to have Python 3 in order to run this project and the follwing Pytho
 
 ### Files
 
+Iris Data Visualizations.ipynb - Main file that looks through all the data using Pandas
+Iris.csv - The data in csv format.
+
 ### Kaggle Notebook Page
 
+https://www.kaggle.com/ainnes84/iris-data/notebook
+
 ### Data
+
+Data is from https://www.kaggle.com/uciml/iris
 
 ### Author
 Andrew Innes
