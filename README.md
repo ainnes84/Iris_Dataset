@@ -6,19 +6,24 @@ The one I used can be found here following this link: https://www.kaggle.com/ben
 
 ## Install
 
-You'll need to have Python 3 in order to run this project and the follwing Python libraries installed:
+You'll need to have Python 3 in order to run this project and the following Python libraries installed:
 * Pandas
 * Seaborn
 * Matplotlib
+* Pygal
 
 ### Files
 
 Iris Data Visualizations.ipynb - Main file that looks through all the data using Pandas
 Iris.csv - The data in csv format.
+SVG Files: Charts from using Pygal
+
 
 ### Kaggle Notebook Page
 
 https://www.kaggle.com/ainnes84/iris-data/notebook
+Note: There is no pygal charts in kaggle as kaggle does not support pygal.  I have however added them into this github post to show
+some of my knowledge using pygal with Python.
 
 ### Data
 
