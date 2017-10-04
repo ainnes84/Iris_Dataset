@@ -14,9 +14,9 @@ You'll need to have Python 3 in order to run this project and the following Pyth
 
 ### Files
 
-Iris Data Visualizations.ipynb - Main file that looks through all the data using Pandas
-Iris.csv - The data in csv format.
-SVG Files: Charts from using Pygal
+* Iris Data Visualizations.ipynb - Main file that looks through all the data using Pandas
+* Iris.csv - The data in csv format.
+* SVG Files: Charts from using Pygal
 
 
 ### Kaggle Notebook Page
